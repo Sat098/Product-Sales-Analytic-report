@@ -15,7 +15,9 @@ It helps understand which products and segments contribute most to overall sales
 - Drill-through feature for detailed product insights
 - Map visualization showing customer locations
 
-🔗 Live Dashboard
+Climate Dataset 📷 Dashboard Preview
+<img width="1578" height="889" alt="image" src="https://github.com/user-attachments/assets/f4464957-968d-428d-b056-e205b093f9e2" />
 
+🔗 Live Dashboard
 👉 Power BI Public Link:
 https://app.powerbi.com/view?r=eyJrIjoiZTdjNjIzYTQtMGI0Mi00MDg2LWJkN2EtYzZmZDQ3NmVkYTNhIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
